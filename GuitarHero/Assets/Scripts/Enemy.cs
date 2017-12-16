@@ -4,37 +4,32 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour {
 
-    public enum type {
+    public enum enemyType {
         up,
         right,
         down,
         left
     }
-    public int speed = 3;
+    public float speed;
+
+    public bool isOut = false;
     
-    public bool isInRange = false;
+    public enemyType type;
 
 	// Use this for initialization
 	void Start () {
-		
+        speed = Random.Range(GameManager.instance.speedMin, GameManager.instance.speedMax);
 	}
 	
 	// Update is called once per frame
 	void Update () {
         Vector3 movement = new Vector3(-1, 0, 0);
         gameObject.transform.Translate(movement * speed * Time.deltaTime);
-    }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        isInRange = true;
-        Debug.Log(isInRange);
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        isInRange = false;
-        Debug.Log(isInRange);
-        gameObject.SetActive(false);
+        if (!gameObject.GetComponent<Renderer>().isVisible && !isOut)
+        {
+            GameManager.instance.playerHealth--;
+            isOut = true;
+        }
     }
 }

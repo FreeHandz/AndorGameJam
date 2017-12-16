@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 799cc585c4e37404c952ad2c991b6715
+timeCreated: 1513461144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_spritesheet_0
+    21300002: fire_spritesheet_1
+    21300004: fire_spritesheet_2
+    21300006: fire_spritesheet_3
+    21300008: fire_spritesheet_4
+    21300010: fire_spritesheet_5
+    21300012: fire_spritesheet_6
+    21300014: fire_spritesheet_7
+    21300016: fire_spritesheet_8
+    21300018: fire_spritesheet_9
+    21300020: fire_spritesheet_10
+    21300022: fire_spritesheet_11
+    21300024: fire_spritesheet_12
+    21300026: fire_spritesheet_13
+    21300028: fire_spritesheet_14
+    21300030: fire_spritesheet_15
+    21300032: fire_spritesheet_16
+    21300034: fire_spritesheet_17
+    21300036: fire_spritesheet_18
+    21300038: fire_spritesheet_19
+    21300040: fire_spritesheet_20
+    21300042: fire_spritesheet_21
+    21300044: fire_spritesheet_22
+    21300046: fire_spritesheet_23
+    21300048: fire_spritesheet_24
+    21300050: fire_spritesheet_25
+    21300052: fire_spritesheet_26
+    21300054: fire_spritesheet_27
+    21300056: fire_spritesheet_28
+    21300058: fire_spritesheet_29
+    21300060: fire_spritesheet_30
+    21300062: fire_spritesheet_31
+    21300064: fire_spritesheet_32
+    21300066: fire_spritesheet_33
+    21300068: fire_spritesheet_34
+    21300070: fire_spritesheet_35
+    21300072: fire_spritesheet_36
+    21300074: fire_spritesheet_37
+    21300076: fire_spritesheet_38
+    21300078: fire_spritesheet_39
+    21300080: fire_spritesheet_40
+    21300082: fire_spritesheet_41
+    21300084: fire_spritesheet_42
+    21300086: fire_spritesheet_43
+    21300088: fire_spritesheet_44
+    21300090: fire_spritesheet_45
+    21300092: fire_spritesheet_46
+    21300094: fire_spritesheet_47
+    21300096: fire_spritesheet_48
+    21300098: fire_spritesheet_49
+    21300100: fire_spritesheet_50
+    21300102: fire_spritesheet_51
+    21300104: fire_spritesheet_52
+    21300106: fire_spritesheet_53
+    21300108: fire_spritesheet_54
+    21300110: fire_spritesheet_55
+    21300112: fire_spritesheet_56
+    21300114: fire_spritesheet_57
+    21300116: fire_spritesheet_58
+    21300118: fire_spritesheet_59
+    21300120: fire_spritesheet_60
+    21300122: fire_spritesheet_61
+    21300124: fire_spritesheet_62
+    21300126: fire_spritesheet_63
+    21300128: fire_spritesheet_64
+    21300130: fire_spritesheet_65
+    21300132: fire_spritesheet_66
+    21300134: fire_spritesheet_67
+    21300136: fire_spritesheet_68
+    21300138: fire_spritesheet_69
+    21300140: fire_spritesheet_70
+    21300142: fire_spritesheet_71
+    21300144: fire_spritesheet_72
+    21300146: fire_spritesheet_73
+    21300148: fire_spritesheet_74
+    21300150: fire_spritesheet_75
+    21300152: fire_spritesheet_76
+    21300154: fire_spritesheet_77
+    21300156: fire_spritesheet_78
+    21300158: fire_spritesheet_79
+    21300160: fire_spritesheet_80
+    21300162: fire_spritesheet_81
+    21300164: fire_spritesheet_82
+    21300166: fire_spritesheet_83
+    21300168: fire_spritesheet_84
+    21300170: fire_spritesheet_85
+    21300172: fire_spritesheet_86
+    21300174: fire_spritesheet_87
+    21300176: fire_spritesheet_88
+    21300178: fire_spritesheet_89
+    21300180: fire_spritesheet_90
+    21300182: fire_spritesheet_91
+    21300184: fire_spritesheet_92
+    21300186: fire_spritesheet_93
+    21300188: fire_spritesheet_94
+    21300190: fire_spritesheet_95
+    21300192: fire_spritesheet_96
+    21300194: fire_spritesheet_97
+    21300196: fire_spritesheet_98
+    21300198: fire_spritesheet_99
+    21300200: fire_spritesheet_100
+    21300202: fire_spritesheet_101
+    21300204: fire_spritesheet_102
+    21300206: fire_spritesheet_103
+    21300208: fire_spritesheet_104
+    21300210: fire_spritesheet_105
+    21300212: fire_spritesheet_106
+    21300214: fire_spritesheet_107
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 376
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 376
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 176
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 176
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

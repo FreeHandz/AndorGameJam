@@ -157,7 +157,9 @@
 -define:ENABLE_VSTU
 Assets/Scripts/Area.cs
 Assets/Scripts/Enemy.cs
+Assets/Scripts/EnemySpawner.cs
 Assets/Scripts/GameManager.cs
+Assets/Scripts/PointsUI.cs
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
 -r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
