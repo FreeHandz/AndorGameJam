@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarHero", "GuitarHero.csproj", "{F2D631B2-AC81-3CB0-07AA-B39D0A0D4638}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D631B2-AC81-3CB0-07AA-B39D0A0D4638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D631B2-AC81-3CB0-07AA-B39D0A0D4638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D631B2-AC81-3CB0-07AA-B39D0A0D4638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D631B2-AC81-3CB0-07AA-B39D0A0D4638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
