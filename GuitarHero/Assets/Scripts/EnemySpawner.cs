@@ -65,7 +65,6 @@ public class EnemySpawner : MonoBehaviour {
 
         spawnCounter += 0.0000001f;
 
-        Debug.Log(minSpawnTime);
         if (spawnTime >= spawnReloadTime)
         {
             CreateEnemy();

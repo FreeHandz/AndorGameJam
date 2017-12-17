@@ -40,7 +40,6 @@ public class GameManager : MonoBehaviour {
 
     private void GameOver()
     {
-        Debug.Log("game over");
         SceneManager.LoadScene("PointScreen", LoadSceneMode.Single);
         playerHealth = 5;
         speedMin = 0.2f;
